@@ -3,6 +3,8 @@
 This Project, 
 Using a single image, it automatically generates the entire folder system by simply showing the coordinates on the interface. 
 
+![Example](Example.png)
+
 ## Features
 
 - It automatically processes the metadata according to the coordinates into the PNG data.
