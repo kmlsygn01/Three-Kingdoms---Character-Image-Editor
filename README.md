@@ -1,4 +1,4 @@
-# Three-Kingdoms---Character-Image-Editor
+# Three Kingdoms - Character Image Editor
 
 Python 3.9 or higher is required.
 This Project, 
